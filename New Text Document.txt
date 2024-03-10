@@ -1,0 +1,26 @@
+whate is the CRUDS
+
+
+C _ create |||| Data  انشاء بيانات
+R _ read    |||| Data  تقراء بيانات
+U _ updata  |||| Data تعدل بيانات
+D _ delete  |||| Data تحزف بيانات
+S _ search  |||| تبحث عن بيانات
+
+
+title                  
+price             
+taxes
+ads
+discount
+count
+brand
+
+
+عنوان
+سعر
+الضرائب
+إعلانات
+تخفيض
+عدد
+ماركة
